@@ -1,0 +1,36 @@
+[
+  {
+    "semiMajorAxis": 1,
+    "name": "Earth",
+    "eccentricity": 0.0167086,
+    "meanDensity": 5.514
+  },
+  {
+    "semiMajorAxis": 30.0611,
+    "name": "Neptune"
+  },
+  {
+    "semiMajorAxis": 0.3871,
+    "name": "Mercury"
+  },
+  {
+    "semiMajorAxis": 0.7231,
+    "name": "Venus"
+  },
+  {
+    "semiMajorAxis": 9.5388,
+    "name": "Saturn"
+  },
+  {
+    "semiMajorAxis": 19.1914,
+    "name": "Uranus"
+  },
+  {
+    "semiMajorAxis": 1.5273,
+    "name": "Mars"
+  },
+  {
+    "semiMajorAxis": 5.2028,
+    "name": "Jupiter"
+  }
+]
